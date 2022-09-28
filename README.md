@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Zero.D.Saber
+- 👋 Hi, I’m @Zero.D.Saber, is a iOSer
 - 👀 I’m interested in `Rust`
 - 🌱 I’m currently learning `Rust/JavaScript`
 

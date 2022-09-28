@@ -1,11 +1,17 @@
 - 👋 Hi, I’m @Zero.D.Saber, is a iOSer
 - 👀 I’m interested in `Rust`
-- 🌱 I’m currently learning `Rust/JavaScript`
+- 🌱 I’m currently learning `Rust`
 
-![](./profile-3d-contrib/profile-night-rainbow.svg)
+[![Vortesnail's github stats](https://github-readme-stats.vercel.app/api?username=faimin&show_icons=true&hide_border=true&hide_title=true&count_private=true&theme=radical)](https://github.com/faimin/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=faimin&layout=compact&hide_border=true&theme=radical)](https://github.com/faimin/github-readme-stats)
+
+<div  align="left">    
+<img src=./profile-3d-contrib/profile-night-rainbow.svg width=50% />
+</div>
 
 
 <!-- 
+[![3d](./profile-3d-contrib/profile-night-rainbow.svg)](https://github.com/faimin/github-readme-stats)
 ![](./profile-3d-contrib/profile-green-animate.svg)
 ![](./profile-3d-contrib/profile-green.svg)
 ![](./profile-3d-contrib/profile-season-animate.svg)

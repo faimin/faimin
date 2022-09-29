@@ -1,11 +1,11 @@
 - 👋 Hi, I’m @Zero.D.Saber, is a iOSer
-- 👀 I’m interested in `Rust`
+- 👀 I’m interested in `Swift/Rust`
 - 🌱 I’m currently learning `Rust`
 
-[![Vortesnail's github stats](https://github-readme-stats.vercel.app/api?username=faimin&show_icons=true&hide_border=true&hide_title=true&count_private=true&theme=radical)](https://github.com/faimin/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=faimin&layout=compact&hide_border=true&theme=radical)](https://github.com/faimin/github-readme-stats)
+[![Vortesnail's github stats](https://github-readme-stats.vercel.app/api?username=faimin&show_icons=true&hide_border=true&hide_title=true&count_private=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=faimin&layout=compact&hide_border=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
-<div  align="left">    
+<div align="left">    
 <img src=./profile-3d-contrib/profile-night-rainbow.svg width=50% />
 </div>
 

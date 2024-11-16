@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Zero.D.Saber, is a iOSer
-- 👀 I’m interested in `Swift/Rust`
-- 🌱 I’m currently learning `React Native`
+- 👀 I’m interested in `Swift、Rust、ReactNative、Flutter`
+- 🌱 I’m currently writing `Swift、Object-C、HTML`
 - 🌈 Blogger： [Zero.D.Saber's Notes](https://faimin.github.io)
 
 [![Vortesnail's github stats](https://github-readme-stats.vercel.app/api?username=faimin&show_icons=true&hide_border=true&hide_title=true&count_private=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
